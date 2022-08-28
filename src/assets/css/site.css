@@ -1,0 +1,23 @@
+.navbar-horizontal .navbar-brand img {
+    height: 80px;
+}
+
+.main-content {
+    min-height: 60vh;
+}
+
+.nav-item {
+    margin-right: 0px !important;
+}
+
+.navbar-horizontal.navbar-transparent {
+    position: relative !important;
+}
+
+.no-padding {
+    padding: 0px;
+}
+
+.no-margin {
+    margin: 0px;
+}
